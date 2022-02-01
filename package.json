@@ -1,0 +1,17 @@
+{
+  "name": "abadon-cream-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Light theme with pastels and cream based on Abadon",
+  "keywords": [
+    "syntax",
+    "theme",
+    "cream",
+    "light"
+  ],
+  "repository": "https://github.com/Tirjasdyn/AbandonCream-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
